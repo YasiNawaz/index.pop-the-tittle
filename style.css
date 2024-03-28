@@ -1,0 +1,123 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    /* background-color: lightblue; */
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+  }
+
+  
+#box1x {
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    /* background-color: lightblue; */
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+  }
+
+
+#box2x {
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    /* background-color: lightblue; */
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+  }
+
+
+#box3x {
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    /* background-color: lightblue; */
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+  }
+
+
+
+#box4x {
+    background-color: rgb(63, 13, 162);
+    width: 100px;
+    height: 100px;
+    /* background-color: lightblue; */
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+  }
+
+
+#box5x {
+    background-color: rgb(81, 120, 249);
+    width: 100px;
+    height: 100px;
+    /* background-color: lightblue; */
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+  }
+
+  
+#box6x {
+    background-color: rgb(9, 57, 116);
+    width: 100px;
+    height: 100px;
+    /* background-color: lightblue; */
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+  }
+
+
+
+#box7x {
+    background-color: rgb(7, 175, 241);
+    width: 100px;
+    height: 100px;
+    /* background-color: lightblue; */
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+  }
+    
+
+
+
+#box8x {
+    background-color:aqua;
+    width: 100px;
+    height: 100px;
+    /* background-color: lightblue; */
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+  }
